@@ -33,4 +33,29 @@ A simple and lightweight Reversi (Othello) game built using **VB.NET** and **Win
 
 ### 如何运行
 1.  确保已安装 **Visual Studio 2022** 和 **.NET 8 SDK**。
-2.
+2.  打开 `VB.NET-Reversi-main.sln` 解决方案文件。
+3.  按 `F5` 键编译并启动程序。
+
+---
+
+<a name="japanese"></a>
+## 🇯🇵 日本語
+**VB.NET** と **Windows Forms** を使用して作成された、シンプルなリバーシ（オセロ）ゲームです。ローカルでの2人対戦に対応しており、合法手のチェックや石を裏返すロジックが実装されています。
+
+### 主な機能
+* **ルール自動判定**: クラシックなリバーシールールに基づき、石を置ける場所を自動で判定します。
+* **スコア表示**: 黒と白の石の数をリアルタイムでタイトルバーに表示します。
+* **パス・終了判定**: 置ける場所がない場合のパス処理や、対局終了時の勝敗判定を自動で行います。
+* **最新環境**: .NET 8.0 に対応しています。
+
+### 実行方法
+1.  **Visual Studio 2022** および **.NET 8 SDK** がインストールされていることを確認してください。
+2.  `VB.NET-Reversi-main.sln` を開きます。
+3.  `F5` キーを押して、ビルドおよび実行を行います。
+
+---
+
+## 🛠 Tech Stack / 技术栈 / 技術スタック
+* **Language**: VB.NET
+* **Framework**: .NET 8.0 (Windows Forms)
+* **IDE**: Visual Studio 2022
