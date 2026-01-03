@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>VBNET_Sudoku</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>VBNET_Sudoku.Program</StartupObject>
+  </PropertyGroup>
+</Project>
